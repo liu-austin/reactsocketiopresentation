@@ -2,7 +2,8 @@
 import socketIOClient from 'socket.io-client';
 
 const state = {
-    endpoint: 'http://localhost:4001'
+    endpoint: 'https://reactsocketiopresentation.herokuapp.com/',
+    // sendpoint: 'http://localhost:4001'
 };
 
 export const socket = socketIOClient(state.endpoint);
