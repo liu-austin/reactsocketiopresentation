@@ -24,3 +24,9 @@
         margin-bottom: 50px;
     }
 }
+
+@media only screen and (max-width: 600px) {
+    .about-title h1 {
+      font-size: 10px;
+    }
+  }

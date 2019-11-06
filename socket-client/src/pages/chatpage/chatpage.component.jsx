@@ -32,7 +32,7 @@ class ChatPage extends React.Component {
   
     render() {
         return (
-            <div>
+            <div className='chat-total-container'>
             <div className='about-content'>
                 <div className='about-title'>
                     <h1 align='center'>CHAT EXAMPLE</h1>

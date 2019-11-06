@@ -10,3 +10,9 @@
         font-size: 60px;
     }
 }
+
+@media only screen and (max-width: 600px) {
+    .intro-title h1 {
+      font-size: 30px;
+    }
+  }

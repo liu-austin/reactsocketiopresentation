@@ -29,4 +29,12 @@
     position: fixed;
   }
 
+  @media only screen and (max-width: 600px) {
+    .topnav {
+      height: 20%;
+    }
 
+    .topnav a.menu-item {
+      height: 25%;
+    }
+  }
