@@ -1,0 +1,26 @@
+.about-content {
+    position: absolute;
+    left: 1.5%;
+    top: 5%;
+
+    & li {
+        font-size: 35px;
+        margin-bottom: 50px;
+    }
+}
+
+.about-title h1 {
+    text-align: left;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.color-change-example {
+    position: absolute;
+    left: 52.5%;
+    top: 5%;
+    & li {
+        font-size: 35px;
+        margin-bottom: 50px;
+    }
+}
